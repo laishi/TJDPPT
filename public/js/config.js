@@ -1,1 +1,1 @@
-var host = 'http://localhost:3000/';
+var host = 'http://148.70.212.82:3000/';
